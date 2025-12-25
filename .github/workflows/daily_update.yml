@@ -30,7 +30,7 @@ jobs:
         run: |
           NEW_DATE=$(date "+%d.%m.%Y")
           if [ -f README.md ]; then
-            sed -i 's|.*последнее обновление: .*|последнее обновление: '"$NEW_DATE"'|' README.md
+            sed -i 's/последнее обновление:.*/последнее обновление: '"$NEW_DATE"'/' README.md
             echo "README.md updated with date: $NEW_DATE"
           else
             echo "README.md not found. Skipping update."
