@@ -1,0 +1,52 @@
+name: ежедневный запуск парсера
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-instances:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: проверка репо
+        uses: actions/checkout@v6.0.1
+
+      - name: загрузка бинарника
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh release download --pattern "privatebin-instances" --clobber
+          chmod +x privatebin-instances
+
+      - name: запуск парсера
+        run: ./privatebin-instances
+
+      - name: добавление даты обновления в README.md
+        run: |
+          NEW_DATE=$(date "+%d.%m.%Y")
+          if [ -f README.md ]; then
+            sed -i 's|.*последнее обновление: .*|последнее обновление: '"$NEW_DATE"'|' README.md
+            echo "README.md updated with date: $NEW_DATE"
+          else
+            echo "README.md not found. Skipping update."
+          fi
+
+      - name: отправка файла в репо
+        run: |
+          git config --global user.name "GitHub Action Bot"
+          git config --global user.email "action@github.com"
+          
+          git add privatebin_instances.json
+          
+          # проверка были ли изменения
+          if git diff --staged --quiet; then
+            echo "ничего не изменилось с прошлого раза"
+          else
+            git commit -m "ежедневное обновление списка инстансов privatebin"
+            git push
+          fi
