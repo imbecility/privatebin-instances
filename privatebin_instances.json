@@ -2,7 +2,7 @@
   "reliable": [
     {
       "version": "2.0",
-      "address": "https://p.darklab.sh",
+      "address": "https://paste.ononoki.org",
       "uptime": 100
     },
     {
@@ -17,17 +17,12 @@
     },
     {
       "version": "2.0",
-      "address": "https://paste.ononoki.org",
-      "uptime": 100
-    },
-    {
-      "version": "2.0",
-      "address": "https://enjoys.rocks",
-      "uptime": 100
-    },
-    {
-      "version": "2.0",
       "address": "https://extrait.facil.services",
+      "uptime": 99
+    },
+    {
+      "version": "2.0",
+      "address": "https://bin.2255.me",
       "uptime": 100
     },
     {
@@ -37,17 +32,12 @@
     },
     {
       "version": "2.0",
+      "address": "https://p.blueridgedebate.com",
+      "uptime": 100
+    },
+    {
+      "version": "2.0",
       "address": "https://bin.graveyard.sh",
-      "uptime": 100
-    },
-    {
-      "version": "2.0",
-      "address": "https://0.0g.gg",
-      "uptime": 100
-    },
-    {
-      "version": "2.0",
-      "address": "https://bin.2255.me",
       "uptime": 100
     },
     {
@@ -57,32 +47,7 @@
     },
     {
       "version": "2.0",
-      "address": "https://pbin.nadeko.net",
-      "uptime": 100
-    },
-    {
-      "version": "2.0",
       "address": "https://pb.jaska.cc",
-      "uptime": 100
-    },
-    {
-      "version": "2.0",
-      "address": "https://p.blueridgedebate.com",
-      "uptime": 100
-    },
-    {
-      "version": "2.0",
-      "address": "https://paste.unredacted.org",
-      "uptime": 100
-    },
-    {
-      "version": "2.0",
-      "address": "https://paste.hostux.net",
-      "uptime": 100
-    },
-    {
-      "version": "2.0",
-      "address": "https://paste.coalserver.de",
       "uptime": 100
     },
     {
@@ -92,22 +57,17 @@
     },
     {
       "version": "2.0",
-      "address": "https://www.noteshare.net",
+      "address": "https://pbin.nadeko.net",
       "uptime": 100
     },
     {
       "version": "2.0",
-      "address": "https://paste.captain.webhop.org",
+      "address": "https://paste.dvotx.org",
       "uptime": 100
     },
     {
       "version": "2.0",
-      "address": "https://paste.hostify.cz",
-      "uptime": 100
-    },
-    {
-      "version": "2.0",
-      "address": "https://cryptostorm.is/paste/",
+      "address": "https://enjoys.rocks",
       "uptime": 100
     },
     {
@@ -117,27 +77,27 @@
     },
     {
       "version": "2.0",
-      "address": "https://privatebin.devol.it",
-      "uptime": 100
-    },
-    {
-      "version": "2.0",
-      "address": "https://bin.infini.fr",
-      "uptime": 100
-    },
-    {
-      "version": "2.0",
-      "address": "https://notebin.de",
-      "uptime": 100
-    },
-    {
-      "version": "2.0",
       "address": "https://paste.systemli.org",
+      "uptime": 99
+    },
+    {
+      "version": "2.0",
+      "address": "https://paste.hostux.net",
       "uptime": 100
     },
     {
       "version": "2.0",
-      "address": "https://paste.loryy.dev",
+      "address": "https://www.noteshare.net",
+      "uptime": 100
+    },
+    {
+      "version": "2.0",
+      "address": "https://paste.unredacted.org",
+      "uptime": 99
+    },
+    {
+      "version": "2.0",
+      "address": "https://paste.momou.ch",
       "uptime": 100
     },
     {
@@ -147,12 +107,12 @@
     },
     {
       "version": "2.0",
-      "address": "https://pb.envs.net",
+      "address": "https://bin.infini.fr",
       "uptime": 100
     },
     {
       "version": "2.0",
-      "address": "https://snip.dssr.ch",
+      "address": "https://privatebin.devol.it",
       "uptime": 100
     },
     {
@@ -167,27 +127,17 @@
     },
     {
       "version": "2.0",
-      "address": "https://bin.hbubli.cc",
-      "uptime": 100
-    },
-    {
-      "version": "2.0",
-      "address": "https://otp.media-kontor.com",
-      "uptime": 100
-    },
-    {
-      "version": "2.0",
       "address": "https://paste.evolix.org",
       "uptime": 100
     },
     {
       "version": "2.0",
-      "address": "https://rhoen.dev/bin/",
+      "address": "https://pb.envs.net",
       "uptime": 100
     },
     {
       "version": "2.0",
-      "address": "https://paste.momou.ch",
+      "address": "https://paste.loryy.dev",
       "uptime": 100
     },
     {
@@ -197,17 +147,52 @@
     },
     {
       "version": "2.0",
+      "address": "https://snip.dssr.ch",
+      "uptime": 100
+    },
+    {
+      "version": "2.0",
+      "address": "https://otp.media-kontor.com",
+      "uptime": 100
+    },
+    {
+      "version": "2.0",
+      "address": "https://notebin.de",
+      "uptime": 100
+    },
+    {
+      "version": "2.0",
+      "address": "https://paste.captain.webhop.org",
+      "uptime": 100
+    },
+    {
+      "version": "2.0",
+      "address": "https://bin.hbubli.cc",
+      "uptime": 100
+    },
+    {
+      "version": "2.0",
+      "address": "https://rhoen.dev/bin/",
+      "uptime": 100
+    },
+    {
+      "version": "2.0",
       "address": "https://bin.jmayr.de",
       "uptime": 100
     },
     {
       "version": "2.0",
-      "address": "https://paste.gnoppix.org",
+      "address": "https://copypaste.aiagency.now",
       "uptime": 100
     },
     {
       "version": "2.0",
-      "address": "https://onetime.vits.co.uk",
+      "address": "https://paste.aya.so",
+      "uptime": 100
+    },
+    {
+      "version": "2.0",
+      "address": "https://bin.disroot.org",
       "uptime": 100
     },
     {
@@ -222,62 +207,12 @@
     },
     {
       "version": "2.0",
-      "address": "https://paste.sev.monster",
-      "uptime": 100
-    },
-    {
-      "version": "2.0",
       "address": "https://0bin.me",
       "uptime": 100
     },
     {
       "version": "2.0",
-      "address": "https://textbin.quick-space.de",
-      "uptime": 100
-    },
-    {
-      "version": "2.0",
-      "address": "https://paste.aya.so",
-      "uptime": 100
-    },
-    {
-      "version": "2.0",
-      "address": "https://paste.craftum.pl",
-      "uptime": 100
-    },
-    {
-      "version": "2.0",
-      "address": "https://paste.grammicals.com",
-      "uptime": 100
-    },
-    {
-      "version": "2.0",
-      "address": "https://bin.disroot.org",
-      "uptime": 100
-    },
-    {
-      "version": "2.0",
-      "address": "https://paste.gstd.eu",
-      "uptime": 100
-    },
-    {
-      "version": "2.0",
-      "address": "https://secrets.janjaapvandijk.nl",
-      "uptime": 100
-    },
-    {
-      "version": "2.0",
-      "address": "https://copypaste.aiagency.now",
-      "uptime": 100
-    },
-    {
-      "version": "2.0",
-      "address": "https://paste.elenemigos.com",
-      "uptime": 100
-    },
-    {
-      "version": "2.0",
-      "address": "https://paste.nolog.cz",
+      "address": "https://paste.sev.monster",
       "uptime": 100
     },
     {
@@ -287,7 +222,47 @@
     },
     {
       "version": "2.0",
+      "address": "https://onetime.vits.co.uk",
+      "uptime": 100
+    },
+    {
+      "version": "2.0",
+      "address": "https://paste.craftum.pl",
+      "uptime": 100
+    },
+    {
+      "version": "2.0",
+      "address": "https://paste.elenemigos.com",
+      "uptime": 100
+    },
+    {
+      "version": "2.0",
+      "address": "https://paste.hostify.cz",
+      "uptime": 100
+    },
+    {
+      "version": "2.0",
+      "address": "https://paste.grammicals.com",
+      "uptime": 100
+    },
+    {
+      "version": "2.0",
+      "address": "https://privatebin.kilya.net",
+      "uptime": 100
+    },
+    {
+      "version": "2.0",
       "address": "https://t25b.com",
+      "uptime": 100
+    },
+    {
+      "version": "2.0",
+      "address": "https://paste.gstd.eu",
+      "uptime": 100
+    },
+    {
+      "version": "2.0",
+      "address": "https://pbin.ru",
       "uptime": 100
     },
     {
@@ -302,7 +277,12 @@
     },
     {
       "version": "2.0",
-      "address": "https://private.keokee.com",
+      "address": "https://paste.mayhem.academy",
+      "uptime": 100
+    },
+    {
+      "version": "2.0",
+      "address": "https://paste.nolog.cz",
       "uptime": 100
     },
     {
@@ -312,42 +292,12 @@
     },
     {
       "version": "2.0",
-      "address": "https://betterpaste.me",
-      "uptime": 100
-    },
-    {
-      "version": "2.0",
-      "address": "https://paste.mayhem.academy",
-      "uptime": 100
-    },
-    {
-      "version": "2.0",
-      "address": "https://yhjf.gumin.cc.cd",
-      "uptime": 100
-    },
-    {
-      "version": "2.0",
-      "address": "https://privatebin.kilya.net",
-      "uptime": 100
-    },
-    {
-      "version": "2.0",
-      "address": "https://pb.1337-it.net",
-      "uptime": 100
-    },
-    {
-      "version": "2.0",
-      "address": "https://secrets.secumail.de",
-      "uptime": 100
-    },
-    {
-      "version": "2.0",
       "address": "https://zb.zerosgaming.de",
       "uptime": 100
     },
     {
       "version": "2.0",
-      "address": "https://pbin.ru",
+      "address": "https://textbin.quick-space.de",
       "uptime": 100
     },
     {
@@ -357,17 +307,17 @@
     },
     {
       "version": "2.0",
-      "address": "https://paste.vylaris.ch",
+      "address": "https://secrets.secumail.de",
       "uptime": 100
     },
     {
       "version": "2.0",
-      "address": "https://notas.gatooscuro.xyz",
-      "uptime": 100
+      "address": "https://pastbin.we-cloud.de",
+      "uptime": 99
     },
     {
       "version": "2.0",
-      "address": "https://ots.pfcloud.io",
+      "address": "https://private.keokee.com",
       "uptime": 100
     },
     {
@@ -377,42 +327,12 @@
     },
     {
       "version": "2.0",
-      "address": "https://pastbin.we-cloud.de",
-      "uptime": 100
-    },
-    {
-      "version": "1.7",
-      "address": "https://logs.notifiarr.com",
+      "address": "https://paste.gnoppix.org",
       "uptime": 100
     },
     {
       "version": "2.0",
-      "address": "https://paste.hior.ws",
-      "uptime": 100
-    },
-    {
-      "version": "2.0",
-      "address": "https://code.wt.pt",
-      "uptime": 100
-    },
-    {
-      "version": "2.0",
-      "address": "https://paste.nerdvpn.de",
-      "uptime": 100
-    },
-    {
-      "version": "2.0",
-      "address": "https://bin.chimuc.com",
-      "uptime": 100
-    },
-    {
-      "version": "1.7",
-      "address": "https://bin.infra.Mee6.cloud",
-      "uptime": 100
-    },
-    {
-      "version": "1.7",
-      "address": "https://paste.tuxcloud.net",
+      "address": "https://notas.gatooscuro.xyz",
       "uptime": 100
     },
     {
@@ -421,23 +341,13 @@
       "uptime": 100
     },
     {
-      "version": "1.4",
-      "address": "https://xkwy2018.com/PrivateBin/",
-      "uptime": 100
-    },
-    {
-      "version": "1.5",
-      "address": "https://pastequest.com",
+      "version": "2.0",
+      "address": "https://cryptostorm.is/paste/",
       "uptime": 100
     },
     {
       "version": "2.0",
-      "address": "https://p.dousse.eu",
-      "uptime": 100
-    },
-    {
-      "version": "1.3",
-      "address": "https://pb.fly.dev",
+      "address": "https://photistic.org/paste/",
       "uptime": 100
     },
     {
@@ -447,8 +357,88 @@
     },
     {
       "version": "1.7",
+      "address": "https://logs.notifiarr.com",
+      "uptime": 100
+    },
+    {
+      "version": "2.0",
+      "address": "https://p.dousse.eu",
+      "uptime": 100
+    },
+    {
+      "version": "1.7",
+      "address": "https://hoyfamily.tech/private/",
+      "uptime": 99
+    },
+    {
+      "version": "2.0",
+      "address": "https://privatebin.wildberries.ru",
+      "uptime": 100
+    },
+    {
+      "version": "2.0",
+      "address": "https://pad.rackforest.com",
+      "uptime": 100
+    },
+    {
+      "version": "2.0",
+      "address": "https://paste.hior.ws",
+      "uptime": 100
+    },
+    {
+      "version": "2.0",
+      "address": "https://ots.pfcloud.io",
+      "uptime": 100
+    },
+    {
+      "version": "1.7",
+      "address": "https://bin.infra.Mee6.cloud",
+      "uptime": 100
+    },
+    {
+      "version": "2.0",
+      "address": "https://yhjf.gumin.cc.cd",
+      "uptime": 100
+    },
+    {
+      "version": "2.0",
+      "address": "https://betterpaste.me",
+      "uptime": 100
+    },
+    {
+      "version": "1.3",
+      "address": "https://pb.fly.dev",
+      "uptime": 100
+    },
+    {
+      "version": "1.7",
+      "address": "https://paste.tuxcloud.net",
+      "uptime": 100
+    },
+    {
+      "version": "1.7",
       "address": "https://pw.bwv-net.de",
       "uptime": 100
+    },
+    {
+      "version": "1.7",
+      "address": "https://bin.libreon.fr",
+      "uptime": 100
+    },
+    {
+      "version": "1.4",
+      "address": "https://xkwy2018.com/PrivateBin/",
+      "uptime": 100
+    },
+    {
+      "version": "1.7",
+      "address": "https://bin.vdx.sh",
+      "uptime": 100
+    },
+    {
+      "version": "2.0",
+      "address": "https://privatebin.deblan.org",
+      "uptime": 99
     },
     {
       "version": "1.7",
@@ -461,33 +451,13 @@
       "uptime": 100
     },
     {
-      "version": "1.7",
-      "address": "https://bin.libreon.fr",
-      "uptime": 100
-    },
-    {
-      "version": "2.0",
-      "address": "https://safepad.pagnozzi.info",
+      "version": "1.6",
+      "address": "https://paste.tecff.de",
       "uptime": 100
     },
     {
       "version": "1.7",
-      "address": "https://privatebin.sequanux.org",
-      "uptime": 100
-    },
-    {
-      "version": "1.7",
-      "address": "https://privatebin.zebandt.dev",
-      "uptime": 100
-    },
-    {
-      "version": "1.7",
-      "address": "https://p.kapsi.fi",
-      "uptime": 100
-    },
-    {
-      "version": "1.7",
-      "address": "https://hoyfamily.tech/private/",
+      "address": "https://pvnotes.sms-electro.no",
       "uptime": 100
     },
     {
@@ -497,17 +467,17 @@
     },
     {
       "version": "1.7",
-      "address": "https://private.nowhere.com.au",
+      "address": "https://privatebin.zebandt.dev",
       "uptime": 100
     },
     {
-      "version": "1.6",
-      "address": "https://paste.tecff.de",
+      "version": "1.7",
+      "address": "https://privatebin.sequanux.org",
       "uptime": 100
     },
     {
-      "version": "1.6",
-      "address": "https://tools.beardic.cn/paste/",
+      "version": "2.0",
+      "address": "https://bin.chimuc.com",
       "uptime": 100
     },
     {
@@ -516,23 +486,23 @@
       "uptime": 100
     },
     {
+      "version": "1.7",
+      "address": "https://gilles.wittezaele.fr/paste/",
+      "uptime": 100
+    },
+    {
+      "version": "1.6",
+      "address": "https://ots.allburosolutions.be",
+      "uptime": 100
+    },
+    {
       "version": "1.4",
       "address": "https://pastebin.24unix.net",
       "uptime": 100
     },
     {
-      "version": "2.0",
-      "address": "https://privatebin.deblan.org",
-      "uptime": 100
-    },
-    {
-      "version": "1.3",
-      "address": "https://paste.biocrafting.net",
-      "uptime": 100
-    },
-    {
-      "version": "1.7",
-      "address": "https://bin.nixnet.services",
+      "version": "1.5",
+      "address": "https://pastequest.com",
       "uptime": 100
     },
     {
@@ -552,32 +522,7 @@
     },
     {
       "version": "1.3",
-      "address": "https://private.cyclelab.eu",
-      "uptime": 100
-    },
-    {
-      "version": "1.7",
-      "address": "https://gilles.wittezaele.fr/paste/",
-      "uptime": 100
-    },
-    {
-      "version": "1.5",
-      "address": "https://ktbky.kaaass.net/paste/",
-      "uptime": 100
-    },
-    {
-      "version": "1.3",
-      "address": "https://paste.i2pd.xyz",
-      "uptime": 100
-    },
-    {
-      "version": "2.0",
-      "address": "https://privatebin.wildberries.ru",
-      "uptime": 100
-    },
-    {
-      "version": "1.3",
-      "address": "https://paste.tube-hosting.de",
+      "address": "https://paste.biocrafting.net",
       "uptime": 100
     },
     {
@@ -587,23 +532,38 @@
     },
     {
       "version": "1.7",
-      "address": "https://privatebin.mbiz.io",
+      "address": "https://bin.nixnet.services",
       "uptime": 100
     },
     {
-      "version": "0.20",
-      "address": "https://zerobin-legacy.dssr.ch",
+      "version": "1.3",
+      "address": "https://private.cyclelab.eu",
       "uptime": 100
     },
     {
-      "version": "1.5",
-      "address": "https://paste.momobako.com",
+      "version": "1.7",
+      "address": "https://p.kapsi.fi",
+      "uptime": 100
+    },
+    {
+      "version": "1.3",
+      "address": "https://paste.i2pd.xyz",
+      "uptime": 100
+    },
+    {
+      "version": "2.0",
+      "address": "https://safepad.pagnozzi.info",
       "uptime": 100
     },
     {
       "version": "1.3",
       "address": "https://privatebin-ext.dnx.lu",
       "uptime": 100
+    },
+    {
+      "version": "1.3",
+      "address": "https://paste.tube-hosting.de",
+      "uptime": 99
     },
     {
       "version": "0.19",
@@ -616,77 +576,82 @@
       "uptime": 100
     },
     {
+      "version": "1.6",
+      "address": "https://tools.beardic.cn/paste/",
+      "uptime": 99
+    },
+    {
+      "version": "0.20",
+      "address": "https://zerobin-legacy.dssr.ch",
+      "uptime": 100
+    },
+    {
+      "version": "1.7",
+      "address": "https://privatebin.mbiz.io",
+      "uptime": 100
+    },
+    {
+      "version": "1.5",
+      "address": "https://ktbky.kaaass.net/paste/",
+      "uptime": 100
+    },
+    {
       "version": "1.3",
       "address": "https://cles.le-filament.com",
       "uptime": 100
     },
     {
-      "version": "1.1",
-      "address": "https://eatmyshorts.ch/paste/",
+      "version": "1.5",
+      "address": "https://paste.momobako.com",
       "uptime": 100
     }
   ],
   "low_uptime": [
     {
       "version": "2.0",
-      "address": "https://bin.outv.im",
-      "uptime": 74
+      "address": "https://p.darklab.sh",
+      "uptime": 82
     },
     {
       "version": "2.0",
-      "address": "https://paste.dvotx.org",
-      "uptime": 81
+      "address": "https://0.0g.gg",
+      "uptime": 82
+    },
+    {
+      "version": "2.0",
+      "address": "https://paste.coalserver.de",
+      "uptime": 97
+    },
+    {
+      "version": "2.0",
+      "address": "https://bin.outv.im",
+      "uptime": 79
     },
     {
       "version": "2.0",
       "address": "https://privatebin.ausrik.com.au",
-      "uptime": 90
-    },
-    {
-      "version": "2.0",
-      "address": "https://pad.rackforest.com",
-      "uptime": 98
-    },
-    {
-      "version": "2.0",
-      "address": "https://photistic.org/paste/",
-      "uptime": 98
-    },
-    {
-      "version": "2.0",
-      "address": "https://pvnotes.fast-elektriker.com",
-      "uptime": 98
+      "uptime": 91
     },
     {
       "version": "1.7",
-      "address": "https://pvnotes.sms-electro.no",
-      "uptime": 57
-    },
-    {
-      "version": "1.7",
-      "address": "https://bin.vdx.sh",
-      "uptime": 98
-    },
-    {
-      "version": "1.6",
-      "address": "https://ots.allburosolutions.be",
-      "uptime": 98
+      "address": "https://private.nowhere.com.au",
+      "uptime": 81
     },
     {
       "version": "1.6",
       "address": "https://paste.fitgirl-repacks.site",
-      "uptime": 97
+      "uptime": 98
     }
   ],
   "unreliable": [
     {
       "version": "2.0",
-      "address": "https://ots.kocsar.com",
+      "address": "https://privatebin.oxidizer.de",
       "uptime": 100
     },
     {
       "version": "2.0",
-      "address": "https://zbin.io",
+      "address": "https://p.hessfr.fr",
       "uptime": 100
     },
     {
@@ -696,12 +661,7 @@
     },
     {
       "version": "2.0",
-      "address": "https://privatebin.oxidizer.de",
-      "uptime": 100
-    },
-    {
-      "version": "2.0",
-      "address": "https://p.hessfr.fr",
+      "address": "https://zbin.io",
       "uptime": 100
     },
     {
